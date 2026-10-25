@@ -52,6 +52,7 @@ Tabulation for Open Circuit Test
 Model graph:
 <img width="1031" height="311" alt="image" src="https://github.com/user-attachments/assets/4e3945ad-7f7c-4078-9a82-e8f5c1f812c4" />
 Calculation: 
+
 <img width="410" height="475" alt="image" src="https://github.com/user-attachments/assets/545dbe81-5bf9-4e2d-90a6-aff02f6daf85" />
 
 Tabulation for Load Test:
@@ -61,6 +62,7 @@ Model graph:
 <img width="1032" height="435" alt="image" src="https://github.com/user-attachments/assets/39d47a58-d144-4028-8f0b-906c9a3588a4" />
 
 Calculation: 
+
 <img width="462" height="452" alt="image" src="https://github.com/user-attachments/assets/f581f90e-4679-4381-97cc-f6df0ec2d1c4" />
 
 Open circuit characteristics
